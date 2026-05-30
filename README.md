@@ -337,6 +337,7 @@ changes.
 - [Vim](./editors/vim/) tooling is in this repository
 - [Emacs](./editors/emacs/) tooling is in this repository and requires the tree-sitter grammar
 - [Helix](https://github.com/helix-editor/helix) has built-in syntax highlighting
+- [Zed](https://zed.dev/extensions/djot) has built-in syntax highlighting
 - Visual Studio Code
   - [djot-vscode](https://github.com/ryanabx/djot-vscode)
   - [Djot-Marker](https://github.com/wisim3000/Djot-Marker)
